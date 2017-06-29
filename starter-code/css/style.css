@@ -1,0 +1,79 @@
+body {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  background: url("https://c.stocksy.com/a/Mfb000/z0/144792.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-style: italic;
+  font-size: 3em;
+  display: inline-block;
+  color: rgba(236, 36, 174, .8);
+  padding-left: 50px;
+}
+
+h3 {
+  font-size: 32px;
+  text-transform: uppercase;
+  display: inline-block;
+  font-weight: 300;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: auto;
+  float: right;
+}
+
+footer {
+  text-align: center;
+  padding: 16px 0;
+  clear: both;
+  font-size: 1em;
+}
+
+a {
+	text-decoration: underline;
+  color: #0000FF;
+	margin: 30px;
+	display: inline-block;
+}
+
+a:active {
+  color: green; 
+}
+
+div {
+  font-size: 20px;
+  width: 46%;
+  padding: 2%;
+  float: left;
+  color: white;
+}
+
+section {
+  background: #222222;
+  color: white;
+  overflow: auto;
+}
+
+.about {
+  color: white;
+}
+
+article {
+  font-size: 20px;
+  width: 46%;
+  padding: 2%;
+  float: left;
+  color: white;
+}
